@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Strickkleid Grün",
+        "price": {
+            "value": 23.99,
+            "currency": "€"
+        },
+        "imageUrl": "https://image01.bonprix.de/assets/584x817/1719363789/24092549-gAn3AXgJ.webp",
+        "description": "Modernes Kleid",
+        "isAvailable": true,
+        "variants": []
+    },
+    {
+        "id": 2,
+        "title": "Strickkleid Orange",
+        "price": {
+            "value": 23.99,
+            "currency": "€"
+        },
+        "imageUrl": "https://image01.bonprix.de/assets/584x817/1719363832/24089134-CIpCULvf.webp",
+        "description": "Modernes Kleid",
+        "isAvailable": true,
+        "variants": []
+    }
+]

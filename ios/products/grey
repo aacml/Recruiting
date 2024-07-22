@@ -1,0 +1,26 @@
+[
+    {
+        "id": 3,
+        "title": "Strickkleid Schwarz",
+        "price": {
+            "value": 23.99,
+            "currency": "€"
+        },
+        "imageUrl": "https://image01.bonprix.de/assets/584x817/1719363819/24093638-JTVOBiF8.webp",
+        "description": "Modernes Kleid",
+        "isAvailable": true,
+        "variants": []
+    },
+    {
+        "id": 4,
+        "title": "Strickkleid Weiß",
+        "price": {
+            "value": 23.99,
+            "currency": "€"
+        },
+        "imageUrl": "https://image01.bonprix.de/assets/584x817/1719363833/24089140-8MHzWkUv.webp",
+        "description": "Modernes Kleid",
+        "isAvailable": true,
+        "variants": []
+    }
+]
